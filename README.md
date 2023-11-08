@@ -20,6 +20,7 @@ User Authentication: Ensures a secure and seamless login and logout experience.
 - View Task Component: Displays the task list and enables task management.
 - Add Task Component: Allows users to create and add new tasks.
 - Navbar Component: Offers easy navigation and logout functionality.
+- Main Component: DashBoard Page Where View Task and Add Task Will Be Viewed.
 
 ## Services
 User Service: Manages user-related functionalities such as login, signup, and authentication.
