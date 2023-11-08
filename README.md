@@ -36,5 +36,16 @@ Enhance the UI/UX to ensure a more intuitive and user-friendly experience.
 Introduce search and filter functionalities within the task management section for improved task organization.
 Adopt a secure token-based authentication system for enhanced security measures.
 
+## Section to Run
+- Run ng build to build the Angular frontend.
+- Run ng serve to serve the Angular application.
+
+ ###For the backend:
+
+- In the properties file, create your own database name.
+- Enter your own MySQL password and username.
+- Check All the Required Dependencies, Update the Maven Project
+- Start the SpringBoot Application
+
 ## Conclusion
 The Task Management Application presents a user-friendly interface, integrating Angular for the frontend and Spring Boot for the backend. With its seamless user authentication and robust task management capabilities, it offers a comprehensive solution for effective task management and organization.
