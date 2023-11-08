@@ -1,7 +1,7 @@
 # Task Management System
 
 ## Overview
-The Task Management Application is a comprehensive tool designed to facilitate efficient task management for users. It encompasses essential features such as user authentication, task creation, viewing, updating, and deletion. This document provides a detailed overview of the application's structure, components, services, and key features.
+The Task Management System is a comprehensive tool designed to facilitate efficient task management for users. It encompasses essential features such as user authentication, task creation, viewing, updating, and deletion. This document provides a detailed overview of the application's structure, components, services, and key features.
 
 ## Features
 Login and Signup: Enables users to create new accounts and log in securely.
